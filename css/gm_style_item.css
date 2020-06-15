@@ -1,0 +1,71 @@
+a:active {color: #333333; font-family: "±¼¸²", "µ¸¿ò", "Arial"; text-decoration: none} 
+a:hover {color: #333333; font-family: "±¼¸²", "µ¸¿ò", "Arial"; text-decoration: none} 
+a:link {color: blue; font-family: "±¼¸²", "µ¸¿ò", "Arial"; text-decoration: none}
+a:visited {color: blue; font-family: "±¼¸²", "µ¸¿ò", "Arial"; text-decoration: none}
+body
+{ 
+SCROLLBAR-FACE-COLOR: #f7f7f7; 
+SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+SCROLLBAR-SHADOW-COLOR: #b4b4b4; 
+SCROLLBAR-3DLIGHT-COLOR: #ffffff; 
+SCROLLBAR-ARROW-COLOR: #b4b4b4; 
+SCROLLBAR-TRACK-COLOR: #ffffff; 
+SCROLLBAR-DARKSHADOW-COLOR: #ffffff;
+font-family: "±¼¸²", "µ¸¿ò", "Arial"; font-size: 9pt; line-height: 130%; color: #666666;
+}
+table {font-family: "±¼¸²", "µ¸¿ò", "Arial"; font-size: 9pt; line-height: 150%; color: #333333;}
+.tableout {font-family: "±¼¸²", "µ¸¿ò", "Arial"; font-size: 9pt; line-height: 130%; border:1px solid #999999; background-color: #ffffff;}
+.button
+{ 
+BORDER-TOP: 1px solid #a7a7a7; 
+BORDER-BOTTOM: 1px solid #a7a7a7; 
+BORDER-LEFT: 1px solid #a7a7a7; 
+BORDER-RIGHT: 1px solid #a7a7a7; 
+background-color: #dadada; 
+font-family: "verdana", "±¼¸²"; 
+color: #666666; 
+font-size: 9pt; 
+width: 70px; 
+height: 18px 
+}
+.listmenu 
+{ 
+COLOR: #666666; 
+FONT-SIZE: 9pt; 
+font-family: "verdana","±¼¸²"; 
+SCROLLBAR-FACE-COLOR: #f7f7f7; 
+SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+SCROLLBAR-SHADOW-COLOR: #b4b4b4; 
+SCROLLBAR-3DLIGHT-COLOR: #ffffff; 
+SCROLLBAR-ARROW-COLOR: #b4b4b4; 
+SCROLLBAR-TRACK-COLOR: #ffffff; 
+SCROLLBAR-DARKSHADOW-COLOR: #ffffff;
+padding-left: 5px 
+}
+textarea 
+{ 
+BORDER-RIGHT:#B9B9B0 1px solid; 
+BORDER-TOP: #B9B9B0 1px solid; 
+BORDER-LEFT: #B9B9B0 1px solid; 
+BORDER-BOTTOM: #B9B9B0 1px solid; 
+BACKGROUND-COLOR: #FFFFFF; 
+COLOR: #666666; 
+FONT-SIZE: 9pt; 
+font-family: "verdana","±¼¸²"; 
+SCROLLBAR-FACE-COLOR: #f7f7f7; 
+SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+SCROLLBAR-SHADOW-COLOR: #b4b4b4; 
+SCROLLBAR-3DLIGHT-COLOR: #ffffff; 
+SCROLLBAR-ARROW-COLOR: #b4b4b4; 
+SCROLLBAR-TRACK-COLOR: #ffffff; 
+SCROLLBAR-DARKSHADOW-COLOR: #ffffff;
+padding-left: 5px 
+}
+input
+{ 
+border:1px solid #666666;
+font-family: "verdana","±¼¸²"; 
+color: #666666;
+font-size:9pt;
+padding-left:5px
+}
